@@ -1,0 +1,15 @@
+# Backend
+backend/.env
+
+# Frontend
+frontend/node_modules
+
+# Go
+backend/bin
+backend/tmp
+
+# OS
+.DS_Store
+
+# Logs
+*.log

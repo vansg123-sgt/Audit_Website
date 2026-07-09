@@ -1,0 +1,38 @@
+export const auditsData = [
+  {
+    id: 1,
+    name: "ISO 9001 Compliance Audit",
+    department: "Quality",
+    auditor: "Alex Morgan",
+    status: "Completed",
+    priority: "High",
+    dueDate: "12 July 2026",
+  },
+  {
+    id: 2,
+    name: "Security Risk Assessment",
+    department: "IT",
+    auditor: "Sarah Smith",
+    status: "In Progress",
+    priority: "Medium",
+    dueDate: "18 July 2026",
+  },
+  {
+    id: 3,
+    name: "Financial Control Audit",
+    department: "Finance",
+    auditor: "John Carter",
+    status: "Pending",
+    priority: "Low",
+    dueDate: "22 July 2026",
+  },
+  {
+    id: 4,
+    name: "Internal Process Review",
+    department: "Operations",
+    auditor: "Emma Wilson",
+    status: "Completed",
+    priority: "Medium",
+    dueDate: "29 July 2026",
+  },
+];
